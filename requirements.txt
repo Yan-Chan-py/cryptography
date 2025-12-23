@@ -1,0 +1,4 @@
+uvicorn
+aiogram
+pydantic-settings
+python-dotenv
